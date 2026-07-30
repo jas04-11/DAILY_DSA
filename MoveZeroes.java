@@ -7,6 +7,7 @@ Example 2:
 Input: nums = [0]
 Output: [0]
  */
+
 class Solution {
     public void moveZeroes(int[] nums) {
        int start=0;
